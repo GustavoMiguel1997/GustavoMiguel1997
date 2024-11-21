@@ -47,6 +47,15 @@ I thrive on challenges and enjoy exploring new technologies, whether it’s main
 
 ---
 
+## ✨ Highlights
+
+- 🌟 **Accessibility**  
+- 📱 **Responsiveness**  
+- 🌍 **Internationalization**
+- ✅ **Automated Testing**  
+
+---
+
 ## 🌱 Learning and Exploring
 
 - **Back-end development with Java and Spring**
