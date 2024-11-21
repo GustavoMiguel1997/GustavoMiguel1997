@@ -2,7 +2,7 @@
 
 I'm a **passionate Front-end Developer** with 5 years of experience building and enhancing web applications. Recently, I’ve also started learning **Back-end development**, expanding my skill set to become a Fullstack Developer.  
 
-Over the years, I’ve had the opportunity to work on diverse products across different teams, tackling both legacy code maintenance and modernizing tech stacks. For example, I've migrated applications from Backbone to React, ensuring smoother, more efficient codebases while enhancing the user experience.
+Over the years, I’ve had the opportunity to work on diverse products across different teams, tackling both legacy code maintenance and modernizing tech stacks. For example, I've migrated applications from Backbone to React, ensuring smoother, more efficient codebases while enhancing the user experience and also worked with internationalization.
 
 I thrive on challenges and enjoy exploring new technologies, whether it’s maintaining and improving existing systems or designing new applications from scratch. Creating fresh projects has allowed me to architect and organize entire codebases, setting a strong foundation for long-term development.
 
@@ -50,7 +50,6 @@ I thrive on challenges and enjoy exploring new technologies, whether it’s main
 ## 🌱 Learning and Exploring
 
 - **Back-end development with Java and Spring**
-- **Micro-frontend integration with React and Vue.js**
 
 ---
 
