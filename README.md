@@ -1,111 +1,71 @@
-# 👋 Hello, I'm Gustavo Miguel
 
-I'm a **Frontend Developer** with 6+ years of experience building and evolving SaaS applications.
+# Hi, I'm Gustavo Miguel!
 
-My main experience is focused on **React, Vue, TypeScript and JavaScript**, working with modern web interfaces, reusable components, API integrations, automated testing, Design Systems and Micro Frontends.
+**Full Stack Developer** based in São Paulo, Brazil.
 
-Throughout my career, I've also expanded my experience into **Full Stack development**, working with Java, Spring Boot, PostgreSQL and RabbitMQ. This gives me a broader understanding of application architecture and the integration between frontend and backend.
+I'm a software developer with 6+ years of experience building and evolving SaaS applications.
 
-🇧🇷 São Paulo, Brazil
+My background is primarily in frontend development, working with **React, Vue, TypeScript, and JavaScript**. Over the years, I've worked on complex web applications, legacy modernization, Micro Frontends, and component architectures.
 
----
+I expanded my work into **backend development with Java and Spring Boot**, building REST APIs, business logic, integrations, and asynchronous processes using PostgreSQL and RabbitMQ.
 
-# 🚀 What I Do
+I also have hands-on experience using **Claude Code** throughout the development process, from understanding existing code and planning technical solutions to implementation, testing, code review, and refactoring.
 
-- Build and evolve SaaS web applications
-- Develop modern interfaces using React and Vue
-- Build reusable and maintainable frontend components
-- Work with Micro Frontends and Module Federation
-- Integrate frontend applications with REST APIs
-- Develop data-intensive interfaces and dashboards
-- Work with Design Systems, Storybook and component architecture
-- Implement automated testing with Jest and Cypress
-- Build real-time features using WebSockets
-- Implement internationalization (i18n)
-- Contribute to backend development when needed
+## What I've worked on
 
----
+- Building and maintaining SaaS platforms for Sales Intelligence and geospatial data analysis.
+- Developing REST APIs, business logic, and integrations with external services such as HubSpot and Salesforce.
+- Implementing asynchronous workflows and communication between services using RabbitMQ.
+- Building frontend applications with React, Vue, and TypeScript.
+- Modernizing legacy applications and working with Micro Frontends and Module Federation.
+- Developing interactive dashboards and geospatial visualizations using Mapbox.
+- Participating in technical planning, architecture discussions, code reviews, and automated testing.
 
-# 🛠️ Tech Stack
+## Tech Stack
 
-## Frontend
+### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-## State & Data
+### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square)
 
-## Architecture & UI
+**Also worked with:** Redux, Zustand, TanStack Query, HTML, CSS, SCSS, and responsive interfaces.
 
-<p>
-  <img src="https://img.shields.io/badge/-Micro%20Frontends-6B7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Module%20Federation-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
-</p>
+### Architecture & Testing
 
-## Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-</p>
+**Experience with:** Micro Frontends, Module Federation, Design Systems, REST APIs, WebSockets, and internationalization (i18n).
 
-## Backend
+### Tools & Workflow
 
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST%20API-009688?style=flat-square" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
 
-## Tools
+**Other tools:** n8n, GoCD, Vite, and Webpack.
 
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
+## How I Work with AI
 
----
+I use Claude Code as part of my software development workflow, not just for generating code.
 
-# 📌 Professional Highlights
+My approach usually starts with understanding the task and the existing codebase, then discussing possible solutions and planning the implementation before making changes.
 
-- 💼 6+ years of experience building and evolving SaaS applications
-- ⚛️ Strong experience with React, Vue and TypeScript
-- 🏗️ Experience with Micro Frontends and Module Federation
-- 🎨 Experience with reusable components, Design Systems and Storybook
-- 🔄 Modernized legacy applications from Backbone.js to React
-- 🗺️ Developed geospatial applications using Mapbox
-- 🧪 Worked with automated testing using Jest and Cypress
-- 🌍 Implemented internationalization (i18n)
-- 🔗 Integrated applications with REST APIs and external services
-- ⚙️ Experience with Java, Spring Boot, PostgreSQL and RabbitMQ
+I use Claude Code to explore technical alternatives, implement features, write tests, review code, and identify potential issues. I review the proposed changes, challenge decisions when necessary, and refine the implementation based on the application's requirements and architecture.
 
----
+## Let's Connect
 
-# 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-miguel-088175123/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavomiguel314@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.gustavomiguel.dev/)
+[LinkedIn](https://www.linkedin.com/in/gustavo-miguel-088175123/) · [Portfolio](https://www.gustavomiguel.dev/) · [Email](mailto:gustavomiguel314@gmail.com)
